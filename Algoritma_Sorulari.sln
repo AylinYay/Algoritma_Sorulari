@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma_Sorulari", "Algoritma_Sorulari\Algoritma_Sorulari.csproj", "{B5C81929-D855-42F4-9A10-E311A64FE33A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C81929-D855-42F4-9A10-E311A64FE33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C81929-D855-42F4-9A10-E311A64FE33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C81929-D855-42F4-9A10-E311A64FE33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C81929-D855-42F4-9A10-E311A64FE33A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A4291BC-C759-4556-A1F3-59E4D0CE12EF}
+	EndGlobalSection
+EndGlobal
